@@ -1,0 +1,13 @@
+{
+  "config":{
+    "formatos": ["mp3", "ogg", "acc", "wma"],
+    "windows":{
+      "origem": "C:\\Users\\{0}\\Downloads\\Telegram Desktop",
+      "mover": "C:\\Users\\{0}\\Music"
+    },
+    "linux": {
+      "origem": "/home/{0}/Downloads/Telegram Desktop",
+      "mover": "/home/{0}/Music"
+    }
+  }
+}
